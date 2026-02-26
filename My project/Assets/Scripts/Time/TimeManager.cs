@@ -20,7 +20,7 @@ public class TimeManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
-        CurrentTime = new GameTime(0, 0, config.PeriodNames, config.DayNames);
+        CurrentTime = new GameTime(100, 0, config.PeriodNames, config.DayNames);
     }
 
     public void AdvanceTime()

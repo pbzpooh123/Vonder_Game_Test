@@ -40,7 +40,7 @@
 
 ## Assumptions
 
-    เริ่มต้น Day 0 = Monday
+    เริ่มต้น Day 1 = Monday
 
     เวลาเปลี่ยนเฉพาะเมื่อชน Trigger เท่านั้น (ไม่มี real-time clock)
 
@@ -64,4 +64,15 @@
                Total : 3 hr 45 min.
                
                
+# System 2: Combat System
 
+
+
+
+
+## Date 26 / 2 / 2569 
+                Design Combat Data structure : 20 min.
+                Implement IDamageable interface : 5 min
+                Implement PlayerCombat + AP system : 1 hr
+                Implement Projectile + UI : 20 min
+                Total : 1 hr 45 min.
