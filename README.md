@@ -76,3 +76,8 @@
                 Implement PlayerCombat + AP system : 1 hr
                 Implement Projectile + UI : 20 min
                 Total : 1 hr 45 min.
+
+## Date 27 / 2 / 2569 
+                Implement Slime enemy : 1 hr
+                
+                Total : 1 hr min.               
